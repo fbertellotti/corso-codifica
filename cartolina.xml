@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>Cartolina Pietrasanta</title>
+   <respStmt>
+    <resp>compiled by </resp>
+    <name>Francesca Bertellotti </name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <publisher></publisher>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Cartolina pubblicata su internet</bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+
+<sourceDoc>
+<figure>
+ <graphic url="https://i.pinimg.com/originals/52/78/ee/5278ee4bf92aa6dc879128249739a81e.jpg"/>
+  <head> PIETRASANTA. Piazza Umberto I. Chiesa S. Agostino</head>
+  <figDesc> La cartolina, in bianco e nero,
+   rappresenta la piazza principale della città,
+  con la Chiesa di Sant'Agostino e la statua di Umberto I.
+  Ci sono alcune persone che attraversano la piazza. 
+  </figDesc>
+</figure>
+</sourceDoc>
+
+</TEI>
