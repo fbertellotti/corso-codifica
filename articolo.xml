@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>Batterie dai rifiuti radioattivi</title>
+   <author>Sabina Berra</author>
+   <respStmt>
+    <resp>compiled by </resp>
+    <name>Francesca Bertellotti </name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <publisher>Mondadori Scienza S.p.A</publisher>
+   <date> 20 maggio 2017</date>
+   <pubPlace> via Mondadori, Verona </pubPlace>
+  </publicationStmt>
+  <sourceDesc>
+ <biblStruct> 
+ <analytic>
+<author>Berra, Sabina</author> 
+<title level="a">Batterie dai rifiuti radioattivi</title>
+</analytic> 
+<monogr> 
+<title level="j">Focus n.296</title> 
+<imprint> 
+<date>Maggio, 2017</date>
+</imprint> 
+<biblScope unit="pages"> 162 </biblScope>
+ </monogr> 
+  </biblStruct>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+
+<text xml:lang="it">
+ <body>
+  <div type="chapter">
+  <head> Ricercatori inglesi hanno creato batterie che sfruttano il carbonio
+  usato delle centrali nucleari. Di lunga durata e ...amiche dell'ambiente. 
+  </head>
+  <p>Le scorie dei reattori nucleari sono un problema serio, che però potrebbe
+  trovare (in parte) una soluzione grazie a un team di scienziati del
+  <orgName>Cabot Institute </orgName> dell'<orgName>Università di Bristol </orgName>, diretto dal geochimico 
+  <name>Tom Scott</name>. I ricercatori hanno realizzato un prototipo 
+  di batterie utilizzando il carbonio-14 radioattivo che proviene dalle centrali.
+  </p>
+  <p> L'idea è di usare questo elemento per creare diamanti artificiali. 
+  Questi cristalli vengono costruiti inserendo al centro gli atomi radioattivi,
+  per poi avvolgerli con uno strato di carbonio normale che assorbe le radiozioni.
+  I diamanti così realizzati producono spostantamente elettricità. 
+  </p>
+  <p> Purtroppo sono troppo deboli per alimentare radio, sveglie e telefonini.
+  In compenso non si scaricherebbero per migliaia di anni. Potrebbero risultare
+  utili, insomma, per tutti i dispositivi in cui "cambiare le batterie" è molto
+  difficile: come pacemaker, satelliti e sonde spaziali. 
+  </p>
+  <p> <emph>Sabina Berra </emph> </p>
+
+
+  </div>
+ </body>
+</text>
+</TEI>

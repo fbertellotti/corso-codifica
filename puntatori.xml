@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>Osservazioni su Montale</title>
+   <author>Francesca Bertellotti</author>
+   <respStmt>
+    <resp>compiled by </resp>
+    <name>Francesca Bertellotti </name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <publisher>Github</publisher>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Esercizi di Github, Corso di codifica</bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+<text xml:lang="it">
+ <body>
+ <div>
+ <p> Tutto quello che bisogna sapere sulla vita di <name>Montale</name> e'
+ possibile trovarlo alla pagina <ptr target="https://it.wikipedia.org/wiki/Eugenio_Montale"/>
+ </p>
+ <p> La sua prima raccolta è <title>Ossi di seppia</title> <note>affronta il tema del tempo e dell'
+uomo come relitto </note>, pubblicata nel <date>1925</date>. 
+Questa raccolta e' composta dalle sezioni:
+<list rend="bulleted">
+<item> il limine </item>
+<item> movimenti</item>
+<item> Poesie per <name>Camillo Sbarbaro </name> </item>
+<item> Sarcofaghi </item>
+<item> Altri versi</item>
+<item> Ossi di seppia </item>
+<item> Mediterraneo </item>
+<item> Meriggi e ombre </item>
+</list>
+</p>
+
+<p>La caratteristica principale di questa raccolte è la contrapposizione
+tra mare e terra, dove il primo rappresenta la condizione di estraneita' 
+alla vita e il secondo la condizione di chi vive serenamente. 
+</p>
+
+<p> A partire dalla seconda raccolta diviene centrale la presenza di una donna-angelo che
+ha una funzione cristofora ovvero <gloss>portatrice di cristo, di un messaggio. </gloss>
+Svolge questa funzione <rs type="person"> Irma Brandeis </rs>, giovane ragazza ebrea che
+amera' per tutta la vita e con la quale scambiera' numerose lettere. 
+</p>
+
+<p>Una tecnica che usa spesso <name>Montale </name> e' quella del <term>correlativo oggettivo
+</term> con cui si designa <gloss>l'attribuzione a un oggetto di un simbolo di cui diviene
+il rappresentante </gloss>. 
+</p>
+
+</div>
+ </body>
+</text>
+</TEI>
