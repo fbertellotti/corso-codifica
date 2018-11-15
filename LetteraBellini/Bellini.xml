@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>Lettera di Vincenzo Bellini</title>
+   <author>Vincenzo Bellini</author>
+   <respStmt>
+    <resp>compiled by </resp>
+    <name>Francesca Bertellotti </name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt> <publisher></publisher>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl></bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+<facsimile>
+  <surface n="1" xml:id="foglio1" start="foglio1">
+   <graphic url="Bellini.jpg"/>
+   <!-- questa e' la data in alto nella lettera -->
+   <zone ulx="39" uly="27" lrx="1234" lry="215" xml:id="data"/>
+   <!-- questo è il corpo della lettera -->
+   <zone ulx="35" uly="202" lrx="1237" lry="1546" xml:id="corpo"/>
+    <!-- questa è la firma -->
+    <zone ulx="678" uly="1544" lrx="1169" lry="1603" xml:id="firma" />
+   </surface>
+
+  <surface n="2" xml:id="foglio2" start="foglio2">
+   <graphic url="Bellini2.jpg" width='1268px' height='1646px'/>
+    <!-- timbro alto a destra -->
+   <zone ulx="51" uly="38" lrx="432" lry="175" xml:id="timbroalto"/>
+    <!--timbro al centro  -->
+   <zone ulx="776" uly="359" lrx="1182" lry="719" xml:id="timbromezzo" />
+     <!--timbro in basso a destra -->
+   <zone ulx="47" uly="1159" lrx="408" lry="1471" xml:id="timbrobasso" />
+    <!-- nome del destinatario e indirizzo -->
+   <zone ulx="192" uly="529" lrx="1201" lry="948" xml:id="destinatario"/>
+    <!-- nome del mittente  -->
+   <zone ulx="688" uly="1007" lrx="1109" lry="1614" xml:id="mittente" />
+     <!-- disegnini  -->
+   <zone ulx="384" uly="1029" lrx="664" lry="1522" xml:id="disegno" />
+  </surface>
+
+  <surface n="3" xml:id="foglio3" start="foglio3"/>
+   <graphic url="Bellini3.jpg"/>
+
+  <surface n="4" xml:id="foglio4" start="foglio4"/>
+   <graphic url="Bellini4.jpg"/>
+
+</facsimile>
+
+<text>
+<body xml:lang="ita">
+ 
+  <pb facs="#foglio1" n="1" />
+   <dateline facs="#data">
+			<date >Juin 26</date>
+			<placeName>Puteau</placeName> 
+      <placeName> N:° 19 bis rampe </placeName>
+	    <placeName rend="underline align(right)">de Neuilly </placeName>
+	 </dateline>
+    <p facs="corpo"> Mio caro <persName>Carluccio </persName>,
+    <lb/>Avendo steso l'intero duetto 
+    <lb/>e mancando in esso quale
+    <lb/> cosetta, desidererei che tu
+    <lb/> t'incomodassi a venire a 
+    <lb/><placeName>Puteau</placeName> per tutto fissare, e
+    <lb/> nell'instesso tempo darmi la
+    <lb/>sortita di <placeName>Rubini</placeName>, se e' termi
+    <lb/>nata. T'aspetto in qual giorno
+    <lb/>ed in qual'ora vorrai. Addio
+    </p>
+    <lb/><p facs="firma" rend="align(right)">Il tuo <persName> Vincensillo </persName> </p>
+ 
+
+
+<pb facs="#foglio2" n="2"/>
+<div facs="timbroaltro"></div>
+<div facs="timbromezzo"><ab><mentioned>
+      <placeName>NEUILLY - SUR - SEINE</placeName>
+				<date when="1834-06-27"> 27  JUIN 1834 </date> </mentioned></ab></div>
+<div facs="timbrobasso"> <ab> 
+      <placeName><unclear reason="illegible"></unclear></placeName>
+        <date when="1834-06-27"> 27 <unclear reason="illegible"> juin </unclear> 1834</date></ab></div>
+
+<div facs="disegno"></div>
+<div facs="destinatario"><p><lb/> à Monsieur <lb/>Monsieur le Comte <persName>Pepoli</persName> <address>
+<lb/><addrLine>N:° <num>1</num>: passage des petits Pères</addrLine></address> <lb/>à <placeName rend="underline align(right)">Paris</placeName>
+</p></div>
+<div facs="mittente"><p>- <num>27</num> Lettera del <lb/><persName>Bellini</persName> sul	duetto<lb/> del p: atto dei Puritani
+</p></div>
+
+
+<pb n="3"  facs="#foglio3"/>
+		
+<pb n="4"  facs="#foglio4"/>
+
+
+
+</body>
+</text>
+</TEI>
+
+
+  
